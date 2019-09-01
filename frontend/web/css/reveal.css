@@ -1,0 +1,127 @@
+/*	--------------------------------------------------
+	Reveal Modals
+	-------------------------------------------------- */
+
+.reveal-modal-bg {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    background: rgba(0,0,0,.8);
+    z-index: 100;
+    display: none;
+    top: 0;
+    left: 0;
+}
+
+.close-reveal-modal{
+    background: none repeat scroll 0 0 #f69899;
+    display: block;
+    height: 20px;
+    padding-top: 10px;
+    right: 0 !important;
+    text-align: center;
+    top: 0 !important;
+    width: 30px;
+    color: #ffffff !important;
+    font-weight: bolder;
+
+}.close-reveal-modal:hover{
+     background: none repeat scroll 0 0 #76bfe5;
+
+ }
+
+.reveal-modal {
+    box-sizing: border-box;
+    /*        height: 180px;*/
+    visibility: hidden;
+    top: 130px;
+    left: 50%;
+    margin-left: -205px;
+    width: 410px;
+    background: #fff no-repeat -200px -80px;
+    position: absolute;
+    z-index: 101;
+    padding: 25px;
+
+}
+.reveal-modal p{
+    color: #7b7979;
+    display: block;
+    font-family: Arial,Helvetica,Sans Serif;
+    font-size: 18px;
+    margin: 20px auto 0;
+    text-align: center;
+    width: 200px;
+}
+.reveal-modal > .buttons{
+    margin-top: 30px;
+}
+.reveal-modal > .buttons > .left{
+    float: left;
+}
+.reveal-modal > .buttons > .left input[type='button']{
+    background: none repeat scroll 0 0 #aaa8a8;
+    border: medium none;
+    color: #ffffff;
+    font-family: Arial,Helvetica,Sans Serif;
+    font-size: 14px;
+    font-weight: bolder;
+    height: 40px;
+    margin-left: 10px;
+    padding-top: 0;
+    position: relative;
+    top: 0;
+    width: 181px;
+}.reveal-modal > .buttons > .left input[type='button']:hover{
+     background: #7b7979;
+ }
+.reveal-modal > .buttons > .right input[type='button']{
+    width: 181px;
+    height: 40px;
+    margin-right: 10px;
+    background: #f69899;
+    border: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, Sans Serif;
+    color: #ffffff;
+    font-weight: bolder;
+}.reveal-modal > .buttons > .right input[type='button']:hover{
+     background: #76bfe5;
+ }
+.reveal-modal > .buttons > .right{
+    float: right;
+}
+
+.reveal-modal.small 		{ width: 200px; margin-left: -140px;}
+.reveal-modal.medium 		{ width: 400px; margin-left: -240px;}
+.reveal-modal.large 		{ width: 600px; margin-left: -340px;}
+.reveal-modal.xlarge 		{ width: 800px; margin-left: -440px;}
+
+.reveal-modal .close-reveal-modal {
+    font-size: 22px;
+    line-height: .5;
+    position: absolute;
+    top: 8px;
+    right: 11px;
+    color: #aaa;
+    text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+    font-weight: bold;
+    cursor: pointer;
+}
+/*
+
+NOTES
+
+Close button entity is &#215;
+
+Example markup
+
+<div id="myModal" class="reveal-modal">
+    <h2>Awesome. I have it.</h2>
+    <p class="lead">Your couch.  I it's mine.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices aliquet placerat. Duis pulvinar orci et nisi euismod vitae tempus lorem consectetur. Duis at magna quis turpis mattis venenatis eget id diam. </p>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+
+*/

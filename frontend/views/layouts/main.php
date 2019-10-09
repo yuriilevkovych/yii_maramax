@@ -7,14 +7,8 @@ use app\components\CallbackWidget;
 use app\components\HelloWidget;
 use app\components\NavWidget;
 use yii\helpers\Html;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
-use yii\widgets\Breadcrumbs;
-use frontend\assets\AppAsset;
-use common\widgets\Alert;
-
-//AppAsset::register($this);
 ?>
+
 <?php $this->beginPage() ?>
 <!DOCTYPE html>
 <html lang="<?= Yii::$app->language ?>">
@@ -61,18 +55,18 @@ use common\widgets\Alert;
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=4.2.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='jquery.bxslider-css'  href='css/jquery.bxslider.css?ver=4.2.21' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-awesome.min-css'  href='css/font-awesome.min.css?ver=4.2.21' type='text/css' media='all' />
-    <link rel='stylesheet' id='reveal-css'  href='css/reveal.css?ver=4.2.21' type='text/css' media='all' />
-    <link rel='stylesheet' id='style-css'  href='css/theme-style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css'  href='/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='jquery.bxslider-css'  href='/css/jquery.bxslider.css?ver=4.2.21' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome.min-css'  href='/css/font-awesome.min.css?ver=4.2.21' type='text/css' media='all' />
+    <link rel='stylesheet' id='reveal-css'  href='/css/reveal.css?ver=4.2.21' type='text/css' media='all' />
+    <link rel='stylesheet' id='style-css'  href='/css/theme-style.css' type='text/css' media='all' />
     <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?ver=4.2.21'></script>
-    <script type='text/javascript' src='js/jquery.reveal.js?ver=4.2.21'></script>
-    <script type='text/javascript' src='js/jquery.bxslider.min.js?ver=4.2.21'></script>
-    <script type='text/javascript' src='js/html5shiv.js?ver=4.2.21'></script>
-    <script type='text/javascript' src='js/custom.min.js?ver=4.2.21'></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="seo/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="seo/wlwmanifest.xml" />
+    <script type='text/javascript' src='/js/jquery.reveal.js?ver=4.2.21'></script>
+    <script type='text/javascript' src='/js/jquery.bxslider.min.js?ver=4.2.21'></script>
+    <script type='text/javascript' src='/js/html5shiv.js?ver=4.2.21'></script>
+    <script type='text/javascript' src='/js/custom.min.js?ver=4.2.21'></script>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/seo/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/seo/wlwmanifest.xml" />
     <link rel='canonical' href='http://maramax.kiev.ua/ru/' />
     <link rel='shortlink' href='http://maramax.kiev.ua/' />
     <link rel="alternate" href="http://maramax.kiev.ua/ru/" hreflang="ru" />

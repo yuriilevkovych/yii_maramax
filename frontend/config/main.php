@@ -38,10 +38,15 @@ return [
         ],
 
         'urlManager' => [
+            'class' => 'codemix\localeurls\UrlManager',
+            'languages' => ['ru', 'en'],
+            'enableDefaultLanguageUrlCode' => true,
+
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => array(
                 'index' => 'site/index',
+                'page/<view:[a-zA-Z0-9-]+>' => 'site/page',
                 '<controller:\w+>/<id:\d+>' => '<controller>/view',
                 '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
                 '<controller:\w+>/<action:\w+>' => '<controller>/<action>',

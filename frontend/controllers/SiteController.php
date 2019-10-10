@@ -64,6 +64,10 @@ class SiteController extends Controller
                 'class' => 'yii\captcha\CaptchaAction',
                 'fixedVerifyCode' => YII_ENV_TEST ? 'testme' : null,
             ],
+            'page' => [
+                'class' => \yii\web\ViewAction::class,
+                'viewPrefix' => 'pages/' . \Yii::$app->language
+            ]
         ];
     }
 
@@ -72,10 +76,10 @@ class SiteController extends Controller
      *
      * @return mixed
      */
-    public function actionIndex()
-    {
-        return $this->render('index');
-    }
+//    public function actionIndex()
+//    {
+//        return $this->render('index');
+//    }
 
     /**
      * Logs in a user.

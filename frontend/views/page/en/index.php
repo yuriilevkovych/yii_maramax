@@ -4,7 +4,7 @@
 
 use app\components\CallbackWidget;
 
-$this->title = 'My Yii Application';
+$this->title = 'Maramax';
 ?>
 
 

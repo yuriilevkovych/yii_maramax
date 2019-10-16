@@ -11,6 +11,7 @@ return [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'controllerNamespace' => 'frontend\controllers',
+    'defaultRoute' => 'page/index',
     'components' => [
         'request' => [
             'csrfParam' => '_csrf-frontend',
@@ -41,12 +42,10 @@ return [
             'class' => 'codemix\localeurls\UrlManager',
             'languages' => ['ru', 'en', 'lt', 'uk'],
             'enableDefaultLanguageUrlCode' => true,
-
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => array(
-                'index' => 'page/index',
-                'page/<view:[a-zA-Z0-9-]+>' => 'site/page',
+                'page/<view:[a-zA-Z0-9-]+>' => 'page/index',
                 '<controller:\w+>/<id:\d+>' => '<controller>/view',
                 '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
                 '<controller:\w+>/<action:\w+>' => '<controller>/<action>',

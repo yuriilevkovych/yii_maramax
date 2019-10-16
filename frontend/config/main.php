@@ -39,13 +39,13 @@ return [
 
         'urlManager' => [
             'class' => 'codemix\localeurls\UrlManager',
-            'languages' => ['ru', 'en'],
+            'languages' => ['ru', 'en', 'lt', 'uk'],
             'enableDefaultLanguageUrlCode' => true,
 
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => array(
-                'index' => 'site/index',
+                'index' => 'page/index',
                 'page/<view:[a-zA-Z0-9-]+>' => 'site/page',
                 '<controller:\w+>/<id:\d+>' => '<controller>/view',
                 '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',

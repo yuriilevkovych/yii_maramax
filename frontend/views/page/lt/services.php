@@ -12,53 +12,53 @@ $this->title = 'Maramax';
 
         <div class="uslugi">
             <div class="wrap">
-                <div class="title">Services</div>
+                <div class="title">Paslaugos</div>
                 <div class="left_wrap">
-                    <div class="left"><p><span>DEVELOPMENT OF CONSTRUCTION, DESIGN AND SELECTION OF CARDBOARD</span></p>
-                        <p>When choosing the design and type of cardboard, our experts consider the following:</p>
+                    <div class="left"><p><span>KONSTRUKCIJOS, DIZAINO PROJEKTAVIMAS IR KARTONO PARINKIMAS</span></p>
+                        <p>Mūsų specialistaii, pasirenkant kartono konstrukciją ir tipą, atsižvelgia į:</p>
                         <ul>
-                            <li> properties of the product to be packed (weight, size etc.).</li>
-                            <li> intended use of packaging</li>
-                            <li> technology requirements of the plant</li>
-                            <li> number of copies</li>
-                            <li> ratio of the cost of goods to the cost of packing</li>
+                            <li> prekės, kuri turi būti supakuota, savybes (svorį, dydį ir tt.);</li>
+                            <li> pakuotės paskirtį;</li>
+                            <li> technologinius įmonės reikalavimus;</li>
+                            <li> tiražą;</li>
+                            <li> prekių kainos ir pakuotės vertės santykį</li>
                         </ul>
-                        <p>				<span>PRE-PRINTING TREATMENT</span></p>
-                        <p>A printing plate is made for each color, including for selective varnishing.</p>
-                        <p>				<span>PRINTING</span></p>
-                        <p>Offset printing is performed on the sheet materials. Any types of paints can be used for printing. Print quality depends on the quality of the cardboard in use.</p>
-                        <p>				<span>MAKING A DINKING DIE</span></p>
-                        <p>The surface area of the dinking die is determined by the surface area of the printed sheet.</p>
-                        <p>				<span>Varnishing</span></p>
-                        <p>Varnishing of the cardboard packaging provides the following benefits:</p>
+                        <p>				<span>PARENGIMAS PRIEŠ SPAUSDINIMĄ</span></p>
+                        <p>Kiekvienai spalvai yra gaminama spausdinimo plokštė, įskaitant atrankinį lakavimą.</p>
+                        <p>				<span>SPAUSDINIMAS</span></p>
+                        <p>Ofsetinis spausdinimas yra atliekamas ant lakštinės medžiagos. Galima spausdinti visus tipų dažais. Spausdinimo kokybė priklauso nuo naudojamo kartono kokybės.</p>
+                        <p>				<span>PERFORAVIMO FORMOS PARENGIMAS</span></p>
+                        <p>Spaudo plotas nustatomas pagal spaudos lapo dydį.</p>
+                        <p>				<span>LAKAVIMAS</span></p>
+                        <p>Kartono pakuotės padengimas laku suteikia šiuos privalumus:</p>
                         <ul>
-                            <li> improving the appearance of the cardboard packaging</li>
-                            <li> wear resistance increase</li>
-                            <li> protection against moisture and scratches</li>
+                            <li> kartono pakuotės vaizdo pagerinimas;</li>
+                            <li> atsparumo dilimui padidinimas</li>
+                            <li> apsauga nuo drėgmės ir įbrėžimų</li>
                         </ul>
-                        <p>Varnish type is selected depending on the technology and price requirements to packaging.</p>
-                        <p>				<span>HOT STAMPING</span></p>
-                        <p>Making any part of the image embossed.</p>
+                        <p>Lako tipas parenkamas priklausomai nuo technologinių ir pakavimo kainos reikalavimų.</p>
+                        <p>				<span>RELJEFIŠKAS ĮSPAUDAS</span></p>
+                        <p>Reljefo suteikimas atskirai vaizdo daliai.</p>
                         <p></p></div>
                     <div class="left">
-                        <p>				<span>BACKING</span></p>
-                        <p>In the manufacture of packaging made of thick laminates like single-face laminate, the print is applied over a separate layer which is subsequently glued (laminated) to the primary layer.</p>
-                        <p>				<span>LAMINATING</span></p>
-                        <p>Protection of packaging against moisture. Type of laminating film is determined by the technology requirements for packaging.</p>
-                        <p>				<span>SMALL TRANSPARENT WINDOWS</span></p>
-                        <p>Small transparent windows are tipped in to give the product a distinctive appearance and allow the consumer to see the product without opening the packaging.</p>
-                        <p>				<span>PACKING AND DELIVERY OF BOXES</span></p>
-                        <p>The boxes can be packed into the film or corrugated cardboard to protect them against mechanical injury.</p>
-                        <p>				<span>SERVICES INVOLVING DESIGN OF METALLIC P.O.S. MATERIALS </span></p>
+                        <p>				<span>PRIKLIJAVIMAS</span></p>
+                        <p>Gaminant pakuotes iš storos daugiasluoksnės medžagos mikrogofrokartono tipo, spauda atliekama ant atskiro sluoksnio, kuris vėliau priklijuojamas ant pagrindinio sluoksnio.</p>
+                        <p>				<span>LAMINAVIMAS</span></p>
+                        <p>Pakuotės apsauga nuo drėmės. Laminavimo plėvelės tipas yra nustatoma pagal technologinius pakuotės reikalavimus.</p>
+                        <p>				<span>SKAIDRŪS LANGELIAI</span></p>
+                        <p>Norint suteikti originalią išorinę išvaizdą ir galimybę pamatyti prekes, neatidarant pakuotę, įklijuojami skaidrūs langeliai.</p>
+                        <p>				<span>DĖŽUČIŲ SUPAKAVIMAS IR PRISTATYMAS</span></p>
+                        <p>Dėžučių apsaugai nuo mechaninio pažeidimo galimas įpakavimas į plėvelę arba gofruotą kartoną.</p>
+                        <p>				<span>METALINIŲ P.O.S. MEDŽIAGŲ PARENGIMO PASLAUGOS</span></p>
                         <ul>
-                            <li> Development of construction and selection of materials.</li>
-                            <li> Thermovacuum moulding of plastics (polystyrene, acryl, PVC, PET). The maximum product size is 1620х720 mm).</li>
-                            <li> Engraving and milling works (the size of the cutting area is 1300х1800 mm).</li>
-                            <li> Bending of sheet metal, pipes, wire and mesh products.</li>
-                            <li> Straightening, wire bundle unwrapping, cutting of wire.</li>
-                            <li> Welding works (resistance spot welding, CO welding).</li>
-                            <li> Polymeric-powder painting (the color can be selected from the RAL color chart).</li>
-                            <li> Manual operations associated with the production of POS materials (assembly, thermal forming of plastics, sticky tape tipping, rolling-on of pressure-sensitive film ORACAL, etc.).</li>
+                            <li> Konstrukcijų projektavimas ir medžiagų parinkimas.</li>
+                            <li> Plastiko termo-vakuuminis formavimas (Polistirolis, akrilas, PVCH, PET).</li>
+                            <li> Graviravimo ir frezavimo darbai (lauko dydis 1300х1800 mm).</li>
+                            <li> Lakštinio metalo, vamzdžių, vielos ir tinklo produktų lankstymas.</li>
+                            <li> Vielos tiesinimas, išvyniojimas, pjovimas.</li>
+                            <li> Virinimas (kontaktinis taškinis virinimas, CO virinimas).</li>
+                            <li> Polimerinis miltelinis dažymas.</li>
+                            <li> Rankinių P.O.S. medžiagų gamybos (surinkimas, plastiko termo- lenkimas, lipnios juosta klijavimas, lipnios plėvelės ORACAL tvirtinimas ir tt). operacijų atlikimas.</li>
                         </ul>
                     </div>
                 </div>
@@ -68,12 +68,12 @@ $this->title = 'Maramax';
 
     <div class="feed">
         <div class="wrap">
-            <span class="_title">Contact us</span>
+            <span class="_title">Susisiekite su mumis</span>
             <div class="form">
-                <p>YOU CAN REQUEST MISCALCULATIONS ORDER, USE THE FEEDBACK FORM. AND ALSO, CAN REQUEST A CALL AND OUR, MANAGER, YOU WILL BE CONTACTED.</p>
+                <p>JŪS GALITE PRAŠYTI NETIKSLUMŲ INTONACIJA, NAUDOTI GRĮŽTAMOJO RYŠIO FORMĄ. TAIP PAT, GALITE PRAŠYTI PASKAMBINTI IR MŪSŲ VADYBININKAS, SU JUMIS BUS SUSISIEKTA.</p>
                 <div role="form" class="wpcf7" id="wpcf7-f1073-o2" lang="ru-RU" dir="ltr">
                     <div class="screen-reader-response"></div>
-                    <form name="" action="/en/services/#wpcf7-f1073-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+                    <form name="" action="/lt/paslaugos/#wpcf7-f1073-o2" method="post" class="wpcf7-form" novalidate="novalidate">
                         <div style="display: none;">
                             <input type="hidden" name="_wpcf7" value="1073">
                             <input type="hidden" name="_wpcf7_version" value="4.2.1">
@@ -93,4 +93,4 @@ $this->title = 'Maramax';
                         <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    </div>
         </div>
     </div>
-    <div id="top">UP</div>    </section>
+    <div id="top" style="display: none;">AUKŠTYN</div>    </section>

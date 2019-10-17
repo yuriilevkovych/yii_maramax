@@ -16,7 +16,7 @@ $this->title = 'Maramax';
                 <div class="left_wrap">
                     <div class="left">
                         <p>        <b>P.O.S. (POINT OF SALES) MATERIALS</b> They are intended for boosting sales of a particular product (or a group of products) in the particular point of sale. In this case, the impact is characterized by limitations of time and space. That is, the consumer is encouraged to make a purchase “right here, right now”.<br>
-                            POS. products for any intended use, mobile advertising constructions for exhibition arrangements, stands, displays and racks for equipping the points of sale. You can order any custom design of POS products <a href="/cat-production/pos_materials/" class="more">Read more &gt;&gt;</a></p>
+                            POS. products for any intended use, mobile advertising constructions for exhibition arrangements, stands, displays and racks for equipping the points of sale. You can order any custom design of POS products <a href="/post/pos-materials/" class="more">Read more &gt;&gt;</a></p>
                         <div style="padding-bottom: 20px;">
                             <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/w-2-249x300.jpg" alt="w (2)" width="249" height="300" class="alignnone size-medium wp-image-1208" style="float: left; width: auto; height: 200px;"><br>
                             <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/садочок-стенд-300x200.png" alt="садочок стенд" width="300" height="200" class="alignleft size-medium wp-image-1207" style="float: left; width: auto; height: 200px;"><p></p>
@@ -56,7 +56,7 @@ $this->title = 'Maramax';
                         <p>The unique three-dimensional shop fittings and retail equipment (displays, racks, stands) is an effective way to draw attention of the customers to the product and encourage those buyers who haven’t made up their minds yet, to make a purchase.</p>
                         <p></p></div>
                     <div class="left">
-                        <p><span>SINGLE-FACE LAMINATE PACKAGING AND CORRUGATED PACKAGING<a href="/cat-production/micro_corrugated_cardboard/" class="more">Read more &gt;&gt;</a></span></p>
+                        <p><span>SINGLE-FACE LAMINATE PACKAGING AND CORRUGATED PACKAGING<a href="/post/micro-corrugated-cardboard/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>What if you need to pack your product in style while protecting it from mechanical injury? Your solution is BACKED SINGLE-FACE LAMINATE AND CORRUGATED CARDBOARD!</p>
                         <div style="padding-bottom: 20px;">
                             <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>

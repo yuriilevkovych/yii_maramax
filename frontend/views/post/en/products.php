@@ -56,7 +56,7 @@ $this->title = 'Maramax';
                         <p>The unique three-dimensional shop fittings and retail equipment (displays, racks, stands) is an effective way to draw attention of the customers to the product and encourage those buyers who haven’t made up their minds yet, to make a purchase.</p>
                         <p></p></div>
                     <div class="left">
-                        <p><span>SINGLE-FACE LAMINATE PACKAGING AND CORRUGATED PACKAGING<a href="/cat-production/micro_corrugated_cardboard/" class="more">Read more &gt;&gt;</a></span></p>
+                        <p><span>SINGLE-FACE LAMINATE PACKAGING AND CORRUGATED PACKAGING<a href="/post/micro-corrugated-cardboard/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>What if you need to pack your product in style while protecting it from mechanical injury? Your solution is BACKED SINGLE-FACE LAMINATE AND CORRUGATED CARDBOARD!</p>
                         <div style="padding-bottom: 20px;">
                             <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>

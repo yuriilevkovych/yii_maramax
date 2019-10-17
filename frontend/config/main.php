@@ -46,6 +46,7 @@ return [
             'showScriptName' => false,
             'rules' => array(
                 'page/<view:[a-zA-Z0-9-]+>' => 'page/index',
+                'post/<view:[a-zA-Z0-9-]+>' => 'post/index',
                 '<controller:\w+>/<id:\d+>' => '<controller>/view',
                 '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
                 '<controller:\w+>/<action:\w+>' => '<controller>/<action>',

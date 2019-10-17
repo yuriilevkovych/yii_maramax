@@ -7,346 +7,39 @@ use app\components\CallbackWidget;
 $this->title = 'Maramax';
 ?>
 
-
 <section><div class="logo"><div class="top_title"></div><div class="bottom_title"></div></div>
 
     <div class="cont_wrap">
-
-        <div class="uslugi">
+        <div class="publ">
             <div class="wrap">
-                <div class="title">Продукция</div>
-                <div class="prod_title">P.O.S.- МАТЕРИАЛЫ</div>
-                <div class="left_wrap prod_more">
-                    <ul>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/08/Без-имени-11.png');"></div>
-                                <div class="prod_text">POS МАТЕРИАЛЫ №54</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/08/Без-имени-1.png');"></div>
-                                <div class="prod_text">POS МАТЕРИАЛЫ №53 Автомобиль</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/3333.png');"></div>
-                                <div class="prod_text">POS МАТЕРИАЛЫ №52</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/последние.png');"></div>
-                                <div class="prod_text">POS МАТЕРИАЛЫ №51</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/222.png');"></div>
-                                <div class="prod_text">POS МАТЕРИАЛЫ №50</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_018.jpg');"></div>
-                                <div class="prod_text">POS материалы №49. Подвесной дисплей</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_025.jpg');"></div>
-                                <div class="prod_text">POS материалы №48. Гофролента с полноцветной печатью</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_023.jpg');"></div>
-                                <div class="prod_text">POS материалы №47. Мобайл, демонстратор</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_021.jpg');"></div>
-                                <div class="prod_text">POS материалы №46. Мобайл</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_017.jpg');"></div>
-                                <div class="prod_text">POS материалы №45. Промостол</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_6.jpg');"></div>
-                                <div class="prod_text">POS материалы №44. Рекламный лоток</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_4.jpg');"></div>
-                                <div class="prod_text">POS материалы №43. Рекламный лоток</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_3.jpg');"></div>
-                                <div class="prod_text">POS материалы №42. Хардпостер</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_020.jpg');"></div>
-                                <div class="prod_text">POS материалы №41. Лама стойка</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_008.jpg');"></div>
-                                <div class="prod_text">POS материалы №40. Шоубокс</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_007.jpg');"></div>
-                                <div class="prod_text">POS материалы №39. Шоубокс</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_002.jpg');"></div>
-                                <div class="prod_text">POS материалы №38. Картонный шоубокс для игрушек</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_001.jpg');"></div>
-                                <div class="prod_text">POS материалы №37. Картонный бокс для голосования</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_5.jpg');"></div>
-                                <div class="prod_text">POS материалы №36. Диспенсер под листовки</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_2.jpg');"></div>
-                                <div class="prod_text">POS материалы №35. Диспенсер под листовки</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_1.jpg');"></div>
-                                <div class="prod_text">POS материалы №34. Диспенсер под листовки</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_05.jpg');"></div>
-                                <div class="prod_text">POS материалы №33.  Настольный дисплей для кофе в стиках</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_004.jpg');"></div>
-                                <div class="prod_text">POS материалы №32. Настольный дисплей для кофе</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_003.jpg');"></div>
-                                <div class="prod_text">POS материалы №31. Настольный дисплей для кофейных стиков</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_8.jpg');"></div>
-                                <div class="prod_text">POS материалы №30. Картонный дисплей под бытовую химию</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_005.jpg');"></div>
-                                <div class="prod_text">POS материалы №29. Настольный дисплей для бытовой химии</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_006.jpg');"></div>
-                                <div class="prod_text">POS материалы №28.  Настольный дисплей</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_12_new.jpg');"></div>
-                                <div class="prod_text">POS материалы №27. Настольный дисплей</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_9_new.jpg');"></div>
-                                <div class="prod_text">POS материалы №26. Муляж продукции</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_01.jpg');"></div>
-                                <div class="prod_text">POS материалы №25. Муляж</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_024.jpg');"></div>
-                                <div class="prod_text">POS материалы №24. Ростовая фигура</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_5.jpg');"></div>
-                                <div class="prod_text">POS материалы №23.  Ростовая фигура</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_08.jpg');"></div>
-                                <div class="prod_text">POS материалы №22.  Ростовая фигура</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_022.jpg');"></div>
-                                <div class="prod_text">POS материалы №21. Ростовая фигура</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_7.jpg');"></div>
-                                <div class="prod_text">POS материалы №20. Стенд из картона под бытовую химию</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_6.jpg');"></div>
-                                <div class="prod_text">POS материалы №19.  Рекламный стенд</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_131.jpg');"></div>
-                                <div class="prod_text">POS материалы №18. Стенд картонный под косметику</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_019.jpg');"></div>
-                                <div class="prod_text">POS материалы №17. Картонный напольный стенд</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_009.jpg');"></div>
-                                <div class="prod_text">POS материалы №16. Напольный стенд под косметику</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_016.jpg');"></div>
-                                <div class="prod_text">POS материалы №15. Напольный стенд</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_015.jpg');"></div>
-                                <div class="prod_text">POS материалы №14.  Напольный стенд для кондитерских изделий</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_014.jpg');"></div>
-                                <div class="prod_text">POS материалы №13. Напольный стенд для косметики</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_013.jpg');"></div>
-                                <div class="prod_text">POS материалы №12.  Напольный стенд для кондитерских изделий</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_012.jpg');"></div>
-                                <div class="prod_text">POS материалы №11. Напольный дисплей для косметики</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_011.jpg');"></div>
-                                <div class="prod_text">POS материалы №10. Напольный стенд для косметики</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/produkcija_pos_010.jpg');"></div>
-                                <div class="prod_text">POS материалы №9. Картонный напольный стенд</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_1.jpg');"></div>
-                                <div class="prod_text">POS материалы №8. Стенд напольный под бытовую химию</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_2.jpg');"></div>
-                                <div class="prod_text">POS материалы №7. Стенд напольный под бытовую химию</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_02.jpg');"></div>
-                                <div class="prod_text">POS материалы №6.  Напольный стенд для кондитерских изделий</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_03.jpg');"></div>
-                                <div class="prod_text">POS материалы №5.  Напольный стенд для кофе</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_04.jpg');"></div>
-                                <div class="prod_text">POS материалы №4.  Напольный стенд под шоколад</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_06.jpg');"></div>
-                                <div class="prod_text">POS материалы №3.  Промо стенд</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_m_071.jpg');"></div>
-                                <div class="prod_text">POS материалы №2.  Промо стенд для кондитерских изделий</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="li_wrap_prod">
-                                <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pos_material_new_31.jpg');"></div>
-                                <div class="prod_text">POS материалы №1.  Промостенд</div>
-                            </div>
-                        </li>
-                    </ul>
+                <div class="title">POSтулат выбора</div>
+                <div class="text">
+                    <p><strong><span style="color: #ff8040;">Картонные POS материалы – развивающийся сегмент</span></strong></p>
+                    <p align="justify">О целевом предназначении POS (Point of Sales) материалов как отдельного вида рекламной продукции и о преимуществах изготовления их из картона рассказал Александр Мартыненко, генеральный директор компании Maramax</p>
+                    <p align="right"><em>Ольга Бут, беседу вела Надежда Семенчук</em></p>
+                    <p align="justify"><strong><span style="color: #ff8040;">В месте – хороши и врозь, и вместе</span></strong></p>
+                    <p align="justify"><img class="right" src="http://maramax.kiev.ua/images/publikacii/publikacia_01.jpg" alt="Картонные POS материалы" width="200" height="400" align="right" border="0" hspace="0">Основной целью использования POS материалов является привлечение внимания покупателей непосредственно в местах продаж. Поэтому зона охвата торговых точек такой рекламной продукцией сегодня очень широка. POS материалы «работают» в магазинах розничной торговли разных форматов и направленности (продуктовая и не продуктовая группа товаров), аптеках, небольших точках локальных продаж (палатки, ларьки) и в заведениях структуры HoReCa.</p>
+                    <p align="justify">В зависимости от формата торговой точки и специфики организации торговли применяются POS материалы, различные по габаритам, конструкции, дизайну и форме: воблеры, шоу-боксы, стенды, шелфтокеры, мобайлы, муляжи и другие виды. Например, если пространство торговых площадей супермаркетов позволяет использовать габаритные напольные конструкции (стенды, муляжи, др.), то в небольших точках, где торговля ведется через прилавок, чаще используются небольшие мобильные виды.</p>
+                    <p align="justify">Разумеется, даже этот не полный перечень POS материалов, предоставляет широту комбинирования решений для привлечения внимания лояльных и потенциальных покупателей, побуждения к совершению покупки определенной торговой марки и, в конечном счете, увеличения количества продаж.</p>
+                    <p align="justify"><strong><span style="color: #ff8040;">Картонная пластика</span></strong></p>
+                    <p align="justify">Все вышеописанные виды рекламных носителей могут быть изготовлены из картона. По опыту компании Maramax, тенденцией последних лет является рост числа заказов на POS материалы из гофро и микрогорфрокартона. Причем это справедливо и в отношении таких конструкций как напольные стенды. Это популярный вид рекламного носителя, поскольку помимо адресного обращения в целевой аудитории покупателей, он создает дополнительные места для выкладки товара, обособленные от конкурентных ТМ и с акцентом на специфике маршрутов покупательских потоков в конкретной торговой точке.</p>
+                    <p align="justify">Еще два года назад напольные стенды компании-производители потребительских товаров часто заказывали из металла, поскольку планировали эксплуатировать их длительное время для продвижения определенного бренда. Сегодня же многие крупные, особенно – транснациональные производители, изменили маркетинговую политику с акцентом на разнообразии быстро обновляющегося ассортимента. А если потребителю все время предлагаются новинки, то закономерно с той же частотой меняется и дизайн POS материалов.</p>
+                    <p align="justify">Также дополнительным фактором, который повлиял на количество отказов от стендов из металла, выступили экономические причины, ведь рекламные бюджеты многих компаний были в 2009 г. значительно сокращены. Следовательно, в такой ситуации более целесообразным решением становится изготовление напольных рекламных стендов из картона. Тем более что кашированный гофро и микрогофрокартон, а именно такой использует компания Maramax для своей POS продукции, во-первых, позволяет изделию служить определенный отведенный срок, во-вторых – обеспечивает необходимую гибкость конструкционных и дизайнерских решений и, в-третьих, стенды в готовом оформленном виде обходятся заказчику как минимум на 30% дешевле по сравнению с затратами на металлические конструкции.</p>
+                    <p align="justify"><strong><span style="color: #ff8040;"><img class="left" src="http://maramax.kiev.ua/images/publikacii/publikacia_02.jpg" alt="POS материалы, рекламные стенды" width="200" height="400" align="left" border="0" hspace="0">Для кого и для чего</span></strong></p>
+                    <p align="justify">Анализ заказов в динамике продаж POS материалов компании Maramax за несколько лет показывает, что наибольший удельный вес, порядка 70% в структуре продаж напольных стендов из картона, приходится на крупные транснациональные компании. Причем, их активность проявляется практически во всех товарных группах и категориях: например, стенды заказываются для продвижения группы бытовой химии, продуктов питания, бытовой техники и комплектующих, косметики и парфюмерии, текстильных изделий и игрушек, многого другого.</p>
+                    <p align="justify">Объясняется такая активность зарубежных компаний, в первую очередь, пониманием, что потребительская упаковка и POS материалы – это не просто затраты, а инвестиции, которые в будущем, за счет увеличения объемов продаж продукции, приносят производственным компаниям прямые и косвенные доходы. Под косвенными доходами подразумевается увеличение лояльности конечного потребителя к определенному бренду, что, опять-таки, дает увеличение продаж, но не в текущий момент, а со временем.</p>
+                    <p align="justify">К сожалению, отечественные компании, в большинстве своем, хотят и понимают роль POS материалов в ряду решений маркетинговых задач, но относятся к ним как к затратам. Тем не менее, рассматриваемая рекламная продукция является перспективным направлением, и этот сегмент рынка будет развиваться в направлении инноваций в области материалов и дизайна.</p>
+                    <p align="justify"><strong><span style="color: #ff8040;">Нестандартно о стандартном</span></strong></p>
+                    <p align="justify">По большому счету, большинство картонных POS материалов представляют собой стандартные решения. Однако формы и дизайн легко изменить под требования заказчика продукции. Тем не менее, «легко» это сделать только в том случае, если компания-заказчик и компания-изготовитель работают над проектами совместно. Совсем немаловажно в этом случае умение изготовителей POS материалов найти индивидуальный подход к требованиям каждого клиента. Ведь часто те же рекламные стенды заказываются под планируемые пики продаж или акционные мероприятия. Тогда на первое место выходят требования исполнения заказов в точные сроки и в необходимых объемах.</p>
+                    <p align="justify">Тем более, что как и любой процесс воплощения креативной идеи в конкретном изделии, изготовление POS материалов сопряжено с постоянными изменениями, которые необходимо реализовывать и согласовывать оперативно. Именно такой подход адекватного реагирования на требования заказчика положен в основу политики работы с клиентами компании Maramax, которая помимо современной производственной базы располагает собственным дизайн-бюро и направлением производства потребительской картонной упаковки. Такой ассортимент услуг дает возможность предоставить заказчику комплексный подход в решении его маркетинговых и рекламных задач.</p>
+                    <p align="justify">И, конечно, гибкость и прозрачность ценообразования, разработанная система скидок, льгот, кредитования позволяет компании Maramax не только укреплять длительные связи с уже имеющимися клиентами и партнерами, но и отвоевывать доли рынка у зарубежных конкурентов.</p>
+                    <p align="center"><span style="color: #ff8040;"><strong>Тенденцией последних лет является рост числа заказов на POS материалы<br>
+из кашированного гофро и микрогорфрокартона.</strong></span></p>
                 </div>
+
+                <a href="/post/gofrocart-package/" class="prev" rel="prev">&lt;&lt; предыдущая</a>				<a href="http://maramax.kiev.ua/ru/publications/point-of-sales-%d0%b8%d0%bb%d0%b8-%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8-%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%d0%b8%d1%82%d1%8c-%d0%bd%d0%b5%d0%bb%d1%8c%d0%b7%d1%8f/" class="next" rel="next">Следующая &gt;&gt;</a>
             </div>
         </div>
-
     </div>
 
     <div class="feed">
@@ -356,7 +49,7 @@ $this->title = 'Maramax';
                 <p>ВЫ МОЖЕТЕ ОСТАВИТЬ ЗАЯВКУ НА ПРОСЧЕТ ЗАКАЗА,ВОСПОЛЬЗОВАВШИСЬ ФОРМОЙ ОБРАТНОЙ СВЯЗИ. А ТАК ЖЕ, МОЖЕТЕ ОСТАВИТЬ ЗАЯВКУ НА ЗВОНОК И НАШИ, МЕНЕДЖЕРЫ, С ВАМИ СВЯЖУТСЯ.</p>
                 <div role="form" class="wpcf7" id="wpcf7-f1073-o2" lang="ru-RU" dir="ltr">
                     <div class="screen-reader-response"></div>
-                    <form name="" action="/ru/cat-production/pos_materials/#wpcf7-f1073-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+                    <form name="" action="/ru/publications/pos%d1%82%d1%83%d0%bb%d0%b0%d1%82-%d0%b2%d1%8b%d0%b1%d0%be%d1%80%d0%b0/#wpcf7-f1073-o2" method="post" class="wpcf7-form" novalidate="novalidate">
                         <div style="display: none;">
                             <input type="hidden" name="_wpcf7" value="1073">
                             <input type="hidden" name="_wpcf7_version" value="4.2.1">
@@ -376,4 +69,4 @@ $this->title = 'Maramax';
                         <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    </div>
         </div>
     </div>
-    <div id="top" style="display: block;">ВВЕРХ</div>    </section>
+    <div id="top">ВВЕРХ</div>    </section>

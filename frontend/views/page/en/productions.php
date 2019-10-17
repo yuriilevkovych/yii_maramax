@@ -47,55 +47,55 @@ $this->title = 'Maramax';
                         <li>
                             <span>Printing machine HEIDELBERG SPEEDMASTER 102</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/speedmaster.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/speedmaster.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/speedmaster1.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/speedmaster1.jpg');"></p>
                             </div>
                         </li>
                         <li>
                             <span>Printing machine Planeta 47</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/PLANETA.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/PLANETA.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/08.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/08.jpg');"></p>
                             </div>
                         </li>
                         <li>
                             <span>UV varnishing TM 1300</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/кашировка3.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/кашировка3.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/кашировка.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/кашировка.jpg');"></p>
                             </div>
                         </li>
                         <li>
                             <span>Glueing Bobst Media 68</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/склейка12.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/склейка12.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/склейка1.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/склейка1.jpg');"></p>
                             </div>
                         </li>
                         <li>
                             <span>Automated die-cutting machine BRAUSSE-1050 SE</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/брауз2.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/брауз2.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/брауз.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/брауз.jpg');"></p>
                             </div>
                         </li>
                         <li>
                             <span>Die-cutting platens Тигель</span><p></p>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/тигель2.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/тигель2.jpg');"></p>
                             </div>
                             <div>
-                                <p style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/тигель1.jpg');"></p>
+                                <p style="background-image: url('/img/2015/06/тигель1.jpg');"></p>
                             </div>
                         </li>
                     </ul></div>

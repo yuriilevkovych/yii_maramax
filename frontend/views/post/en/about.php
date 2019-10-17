@@ -18,7 +18,7 @@ $this->title = 'Maramax';
                 <div class="top_title_about">
                     <p>MARAMAX specializes in services associated with manufacture of promotional products for printshops and advertising agencies (development of advertising constructions, dummies and design, choice of materials), as well as post-printing finishing of cardboard packaging and backed single-face laminate packaging. </p>
                     <p>MARAMAKS, LLC was founded in 2001. All products of our company are made from materials of domestic and foreign manufacturers. Perfect product quality, as well as continuity of supply, lies at the heart of our sourcing of raw materials. All of our finished products are made at our own manufacturing base, which directly affects our favorable price policy. We have established business relationships with many companies from different industries.</p>
-                    <p>        <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/22222222.jpg" "="">
+                    <p>        <img src="/img/2015/06/22222222.jpg" "="">
                     </p></div>
                 <div class="left_wrap">
                     <div class="left">
@@ -117,16 +117,16 @@ $this->title = 'Maramax';
                     <div class="wrap">
                         <span>Our main clients are:</span>
                         <ul>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/1.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/2.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/vitmark-1.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/4.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/5.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/10.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/9.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/Kraft1-superJumbo.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pepsi-logo.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/8.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/1.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/2.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/vitmark-1.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/4.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/5.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/10.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/9.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/Kraft1-superJumbo.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/pepsi-logo.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/8.png');"></div></li>
                         </ul>
                     </div>
                 </div>

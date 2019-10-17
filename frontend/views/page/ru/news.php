@@ -24,7 +24,7 @@ $this->title = 'Maramax';
                                             <span>29</span>
                                             <p>Июнь</p>
                                         </div>
-                                        <div class="img" style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/izba.jpg');"></div>
+                                        <div class="img" style="background-image: url('/img/2015/06/izba.jpg');"></div>
                                     </a>
                                 </div>
                                 <div class="text_w">

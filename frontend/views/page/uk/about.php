@@ -20,7 +20,7 @@ $this->title = 'Maramax';
                     <p>Компанія використовує креативні дизайнерські рішення для задоволення потреб замовників, пов’язаних з підвищенням конкурентоспроможності та ефективності діяльності. Всі наші клієнти отримують якісні індивідуальні варіанти вирішення їх запитів і потреб, починаючи з розробки ідеї і конструктиву, і закінчуючи постачанням готової продукції на склади клієнта</p>
                     <p>Вся продукція виробляється з кращих матеріалів вітчизняних та іноземних виробників. В основі нашого вибору постачальників сировини лежить бездоганна якість продукції, безперервність поставок. Наявні власні потужності з виробництва різних типів гофрокартону. Вся кінцева продукція виготовляється на власній виробничій базі, що безпосередньо впливає на вигідну цінову політику.</p>
                     <p>Компанія МАРАМАКС співпрацює з відомими компаніями різних галузей: харчова та кондитерська, парфюмерно-косметична, побутової хімії, алкогольна, фармацевтична, текстильна, товарів промислової групи. Виробництво компанії оснащене передовим сучасним обладнанням, це забезпечує найвищу якість всього циклу виробництва. В 2015-му році наша компанія увійшла до ПОЛЬСЬКО-УКРАЇНСЬКОЇ промислової палати.</p>
-                    <p>        <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/22222222.jpg" "="">
+                    <p>        <img src="/img/2015/06/22222222.jpg" "="">
                     </p></div>
                 <div class="left_wrap">
                     <div class="left">
@@ -117,16 +117,16 @@ $this->title = 'Maramax';
                     <div class="wrap">
                         <span>Основними нашими клієнтами є:</span>
                         <ul>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/1.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/2.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/vitmark-1.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/4.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/5.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/10.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/9.png');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/Kraft1-superJumbo.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/pepsi-logo.jpg');"></div></li>
-                            <li><div style="background-image: url('http://maramax.kiev.ua/wp-content/uploads/2015/06/8.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/1.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/2.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/vitmark-1.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/4.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/5.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/10.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/9.png');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/Kraft1-superJumbo.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/pepsi-logo.jpg');"></div></li>
+                            <li><div style="background-image: url('/img/2015/06/8.png');"></div></li>
                         </ul>
                     </div>
                 </div>

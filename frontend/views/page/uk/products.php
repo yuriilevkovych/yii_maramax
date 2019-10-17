@@ -19,8 +19,8 @@ $this->title = 'Maramax';
                         <p>Компанія Марамакс спеціалізується на виготовленні P.O.S матеріалів з гофрованого картону. Ми постійно працюємо над вдосконаленням виробництва та продукції, яку ми виготовляємо, а також над підвищенням ефективності виробничих потужностей, щоб запропонувати нашим клієнтам  високоякісну рекламну продукцію за помірними цінами.<br>
                             . <a href="/post/pos-materials/" class="more">Детальніше &gt;&gt;</a></p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/w-2-249x300.jpg" alt="w (2)" width="249" height="300" class="alignnone size-medium wp-image-1208" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/садочок-стенд-300x200.png" alt="садочок стенд" width="300" height="200" class="alignleft size-medium wp-image-1207" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/w-2-249x300.jpg" alt="w (2)" width="249" height="300" class="alignnone size-medium wp-image-1208" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/садочок-стенд-300x200.png" alt="садочок стенд" width="300" height="200" class="alignleft size-medium wp-image-1207" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p><span>5 ФУНКЦІОНАЛЬНИХ ЗОН POS-МАТЕРІАЛІВ:</span></p>
@@ -45,8 +45,8 @@ $this->title = 'Maramax';
                         <p><span>        МЕТАЛЕВІ POS-МАТЕРІАЛИ<a href="/post/metalic/" class="more">Детальніше &gt;&gt;</a></span></p>
                         <p>POS-матеріали – це матеріали, які служать для додаткового залучення уваги і ефективного просування бренду або товару в місцях безпосереднього продажу, тобто мотивує споживача зробити покупку “тут і зараз” </p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/54-300x300.png" alt="5" width="300" height="300" class="alignleft size-medium wp-image-1217" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/13-300x300.png" alt="1" width="300" height="300" class="alignleft size-medium wp-image-1218" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/54-300x300.png" alt="5" width="300" height="300" class="alignleft size-medium wp-image-1217" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/13-300x300.png" alt="1" width="300" height="300" class="alignleft size-medium wp-image-1218" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p><span>ВИСТАВКОВЕ ОБЛАДНАННЯ ТА НЕСТАНДАРТНІ СТІЙКИ</span></p>
@@ -60,8 +60,8 @@ $this->title = 'Maramax';
                         <p><span>КАШИРОВАНА УПАКОВКА З МІКРОГОФРОКАРТОНУ ТА ГОФРОКАРТОНУ<a href="/post/micro-corrugated-cardboard/" class="more">Детальніше &gt;&gt;</a></span></p>
                         <p>Що робити, якщо потрібно одночасно упакувати красиво, і при цьому захистити виріб від механічних пошкоджень? Рішення – каширування мікрогофрокартону та гофрокартону. Компанія Марамакс спеціалізується на виготовленні P.O.S матеріалів з гофрованого картону. Ми постійно працюємо над вдосконаленням виробництва та продукції, яку ми виготовляємо, а також над підвищенням ефективності виробничих потужностей, щоб запропонувати нашим клієнтам  високоякісну рекламну продукцію за помірними цінами. </p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото4-кашированная1-e1440574642165-300x162.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 150px;"><p></p>
+                            <img src="/img/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/фото4-кашированная1-e1440574642165-300x162.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 150px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p>Каширування – це процес склеювання задрукованого листа (лайнера) з підкладкою (основою).</p>
@@ -77,8 +77,8 @@ $this->title = 'Maramax';
                         <p><span>         УПАКОВКА З КАРТОНУ<a href="/post/cardboard/" class="more">Детальніше &gt;&gt;</a></span></p>
                         <p>Картон – конструкторський матеріал. Офсетний друк, необмежені можливості моделювання, застосування нових поліграфічних технологій дозволяють втілити в життя найнеочікуваніші дизайнерські рішення. </p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото-4-упаковка-из-картона-300x229.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото5упаковка-на-главной-300x227.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/фото-4-упаковка-из-картона-300x229.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/фото5упаковка-на-главной-300x227.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div></div>
                 </div>

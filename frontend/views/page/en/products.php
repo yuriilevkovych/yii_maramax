@@ -18,8 +18,8 @@ $this->title = 'Maramax';
                         <p>        <b>P.O.S. (POINT OF SALES) MATERIALS</b> They are intended for boosting sales of a particular product (or a group of products) in the particular point of sale. In this case, the impact is characterized by limitations of time and space. That is, the consumer is encouraged to make a purchase “right here, right now”.<br>
                             POS. products for any intended use, mobile advertising constructions for exhibition arrangements, stands, displays and racks for equipping the points of sale. You can order any custom design of POS products <a href="/post/pos-materials/" class="more">Read more &gt;&gt;</a></p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/w-2-249x300.jpg" alt="w (2)" width="249" height="300" class="alignnone size-medium wp-image-1208" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/садочок-стенд-300x200.png" alt="садочок стенд" width="300" height="200" class="alignleft size-medium wp-image-1207" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/w-2-249x300.jpg" alt="w (2)" width="249" height="300" class="alignnone size-medium wp-image-1208" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/садочок-стенд-300x200.png" alt="садочок стенд" width="300" height="200" class="alignleft size-medium wp-image-1207" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p><span>5 FUNCTIONAL AREAS OF P.O.S. MATERIALS:</span></p>
@@ -44,8 +44,8 @@ $this->title = 'Maramax';
                         <p><span>        METALLIC POS MATERIALS<a href="/post/metalic/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>POS-materials mean materials that are used to attract additional attention and effective brand-building or product promotion in the points of direct sales, that is, they are intended to encourage the consumer to make a purchase “right here, right now”.</p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/54-300x300.png" alt="5" width="300" height="300" class="alignleft size-medium wp-image-1217" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/13-300x300.png" alt="1" width="300" height="300" class="alignleft size-medium wp-image-1218" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/54-300x300.png" alt="5" width="300" height="300" class="alignleft size-medium wp-image-1217" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/13-300x300.png" alt="1" width="300" height="300" class="alignleft size-medium wp-image-1218" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p><span>EXHIBITION EQUIPMENT AND OFF-STANDARD RACKS</span></p>
@@ -59,8 +59,8 @@ $this->title = 'Maramax';
                         <p><span>SINGLE-FACE LAMINATE PACKAGING AND CORRUGATED PACKAGING<a href="/post/micro-corrugated-cardboard/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>What if you need to pack your product in style while protecting it from mechanical injury? Your solution is BACKED SINGLE-FACE LAMINATE AND CORRUGATED CARDBOARD!</p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото4-кашированная1-e1440574642165-300x162.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 150px;"><p></p>
+                            <img src="/img/2015/06/фото3-кашированная1-300x258.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/фото4-кашированная1-e1440574642165-300x162.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 150px;"><p></p>
                             <div class="clearfix"></div>
                         </div>
                         <p>Backing means the process of glueing the printed sheet (liner) with the backing sheet (base sheet).
@@ -77,8 +77,8 @@ $this->title = 'Maramax';
                         <p><span>         CARDBOARD PACKAGING<a href="/post/cardboard/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>Cardboard is a design material. Offset printing, unlimited modeling capabilities, the use of new printing technologies enable implementation of the most undreamed-of design solutions. </p>
                         <div style="padding-bottom: 20px;">
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото-4-упаковка-из-картона-300x229.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
-                            <img src="http://maramax.kiev.ua/wp-content/uploads/2015/06/фото5упаковка-на-главной-300x227.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 200px;"><p></p>
+                            <img src="/img/2015/06/фото-4-упаковка-из-картона-300x229.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>
+                            <img src="/img/2015/06/фото5упаковка-на-главной-300x227.png" alt="фото4 кашированная" width="300" height="240" class="alignleft size-medium wp-image-1221" style="float: left; width: auto; height: 200px;"><p></p>
                             <div class="clearfix"></div>
                         </div></div>
                 </div>

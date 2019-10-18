@@ -316,4 +316,5 @@ $this->title = 'Maramax';
                         <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    </div>
         </div>
     </div>
-    <div id="top">UP</div>    </section>
+    <div id="top">UP</div>
+</section>

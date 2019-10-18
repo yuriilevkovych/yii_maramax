@@ -3,32 +3,32 @@
 <?php
 switch(\Yii::$app->language){
     case 'ru':
-        $title = 'Оставте заявку, мы с Вами свяжемся';
+        $title = 'Оставьте заявку, мы с Вами свяжемся';
         $name = 'Имя';
         $phone = 'Телефон';
         $message = 'Ваше сообщение';
         $send = 'Отправить';
         break;
     case 'uk':
-        $title = 'Оставте заявку, мы с Вами свяжемся';
-        $name = 'Имя';
+        $title = 'Залиште заявку, ми з Вами зв\'яжемося';
+        $name = 'Ім\'я';
         $phone = 'Телефон';
-        $message = 'Ваше сообщение';
-        $send = 'Отправить';
+        $message = 'Ваше повідомлення';
+        $send = 'Відправити';
         break;
     case 'en':
-        $title = 'Оставте заявку, мы с Вами свяжемся';
-        $name = 'Имя';
-        $phone = 'Телефон';
-        $message = 'Ваше сообщение';
-        $send = 'Отправить';
+        $title = 'Leave a request, we will contact you';
+        $name = 'Name';
+        $phone = 'Phone';
+        $message = 'Your message';
+        $send = 'Send';
         break;
     case 'lt':
-        $title = 'Оставте заявку, мы с Вами свяжемся';
-        $name = 'Имя';
-        $phone = 'Телефон';
-        $message = 'Ваше сообщение';
-        $send = 'Отправить';
+        $title = 'Palikite užklausą, mes susisieksime su jumis';
+        $name = 'Vardas';
+        $phone = 'Telefono numeris';
+        $message = 'Jūsų žinutė';
+        $send = 'Pateikti';
         break;
 
 }

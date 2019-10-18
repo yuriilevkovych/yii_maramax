@@ -91,9 +91,16 @@ use yii\helpers\Html;
 
                 <?= $this->render('main/select-language') ?>
 
+                <?php switch(\Yii::$app->language){
+                    case 'uk': $feedback = 'зворотній зв\'язок';break;
+                    case 'ru': $feedback = 'обратная связь';break;
+                    case 'en': $feedback = 'feedback';break;
+                    case 'lt': $feedback = 'Grįžtamasis ryšys';break;
+                }?>
+
                 <div class="contacts">
                     <ul>
-                        <li><a href="#" data-reveal-id="myModal"><p>обратная связь</p></a></li>
+                        <li><a href="#" data-reveal-id="myModal"><p><?= $feedback ?></p></a></li>
                     </ul>
                 </div>
             </div>

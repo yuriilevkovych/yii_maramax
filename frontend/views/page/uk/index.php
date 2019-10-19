@@ -11,25 +11,25 @@ use app\components\CallbackWidget;
             <ul>
 
                 <li>
-                    <a href="/cat-production/pos_materials_ua"><div class="item">
+                    <a href="/post/pos-materials"><div class="item">
                             <img src="/img/2015/06/sec_1_1.jpg" alt="">
                             <div class="table_v"><div class="table_cell_v">P.O.S.- МАТЕРІАЛИ</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/micro_corrugated_cardboard_uk"><div class="item">
+                    <a href="/post/corrugated-cartboard"><div class="item">
                             <img src="/img/2015/06/каш.png" alt="">
                             <div class="table_v"><div class="table_cell_v">УПАКОВКА КАШИРОВАНА</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/metalic_uk"><div class="item">
+                    <a href="/post/metalic"><div class="item">
                             <img src="/img/2015/06/мет.png" alt="">
                             <div class="table_v"><div class="table_cell_v">МЕТАЛЕВІ POS-МАТЕРІАЛИ</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/cardboard_uk"><div class="item">
+                    <a href="/post/cartboard"><div class="item">
                             <img src="/img/2015/06/упаковка-из-картона.png" alt="">
                             <div class="table_v"><div class="table_cell_v">УПАКОВКА З КАРТОНУ</div></div>
                         </div></a></li>

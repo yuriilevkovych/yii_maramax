@@ -74,7 +74,7 @@ $this->title = 'Maramax';
                         <p>1.      The weight of the box is lower, but it is strong enough; the product inside the box is protected in the best possible way; the box will be damaged less due to multiple layers.</p>
                         <p>2.      Backed single-face laminate and corrugated cardboard is the best solution for packaging of both large and small goods. And thanks to “microwaves”, there is a possibility to create very small boxes, the manufacture of which would require using very thin-walled grades of the ordinary cardboard, in which case the presentable appearance of a box made of ordinary cardboard would be very poor, and such box can easily become shapeless..</p>
                         <p>3.      Design possibilities presented by backed single-face laminate and corrugated cardboard allow us to employ a wide variety of designs in the creation of any package.</p>
-                        <p><span>         CARDBOARD PACKAGING<a href="/post/cardboard/" class="more">Read more &gt;&gt;</a></span></p>
+                        <p><span>         CARDBOARD PACKAGING<a href="/post/corrugated-cartboard/" class="more">Read more &gt;&gt;</a></span></p>
                         <p>Cardboard is a design material. Offset printing, unlimited modeling capabilities, the use of new printing technologies enable implementation of the most undreamed-of design solutions. </p>
                         <div style="padding-bottom: 20px;">
                             <img src="/img/2015/06/фото-4-упаковка-из-картона-300x229.png" alt="фото3 кашированная" width="300" height="258" class="alignleft size-medium wp-image-1220" style="float: left; width: auto; height: 200px;"><br>

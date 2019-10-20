@@ -18,25 +18,25 @@ $this->title = 'My Yii Application';
             <ul>
 
                 <li>
-                    <a href="/cat-production/pos_materials"><div class="item">
+                    <a href="/post/cat-pos-materials"><div class="item">
                             <img src="/img/2015/06/sec_1_1.jpg" alt="">
                             <div class="table_v"><div class="table_cell_v">P.O.S.- МАТЕРИАЛЫ</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/micro_corrugated_cardboard"><div class="item">
+                    <a href="/post/corrugated-cardboard"><div class="item">
                             <img src="/img/2015/06/каш.png" alt="">
                             <div class="table_v"><div class="table_cell_v">КАШИРОВАННАЯ УПАКОВКА</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/metalic"><div class="item">
+                    <a href="/post/metalic"><div class="item">
                             <img src="/img/2015/06/мет.png" alt="">
                             <div class="table_v"><div class="table_cell_v">МЕТАЛЛИЧЕСКИЕ POS-МАТЕРИАЛЫ</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/cardboard"><div class="item">
+                    <a href="/post/cardboard"><div class="item">
                             <img src="/img/2015/06/упаковка-из-картона.png" alt="">
                             <div class="table_v"><div class="table_cell_v">УПАКОВКА ИЗ КАРТОНА</div></div>
                         </div></a></li>

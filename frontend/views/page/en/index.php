@@ -18,25 +18,25 @@ $this->title = 'Maramax';
             <ul>
 
                 <li>
-                    <a href="/cat-production/pos_materials_en"><div class="item">
+                    <a href="/post/cat-pos-materials"><div class="item">
                             <img src="/img/2015/06/sec_1_1.jpg" alt="">
                             <div class="table_v"><div class="table_cell_v">P.O.S.- MATERIALS</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/micro_corrugated_cardboard_en"><div class="item">
+                    <a href="/post/corrugated-cardboard"><div class="item">
                             <img src="/img/2015/06/каш.png" alt="">
                             <div class="table_v"><div class="table_cell_v">BACKED PACKAGES</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/metalic_en"><div class="item">
+                    <a href="/post/metalic"><div class="item">
                             <img src="/img/2015/06/мет.png" alt="">
                             <div class="table_v"><div class="table_cell_v">METAL POS-MATERIALS</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/cardboard_en"><div class="item">
+                    <a href="/post/cardboard"><div class="item">
                             <img src="/img/2015/06/упаковка-из-картона.png" alt="">
                             <div class="table_v"><div class="table_cell_v">CARDBOARD PACKAGING</div></div>
                         </div></a></li>
@@ -293,9 +293,9 @@ $this->title = 'Maramax';
         <div class="wrap">
             <span class="_title">Contact us</span>
 
-            <?= CallbackWidget::widget() ?>
-
         </div>
     </div>
     <div id="top">UP</div>
 </section>
+
+<?= CallbackWidget::widget() ?>

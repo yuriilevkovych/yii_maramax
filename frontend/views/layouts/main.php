@@ -116,6 +116,29 @@ use yii\helpers\Html;
 
 
     <footer>
+
+        <?php switch(\Yii::$app->language){
+            case 'uk': $howToFind = 'ЯК НАС ЗНАЙТИ';break;
+            case 'ru': $howToFind = 'КАК НАС НАЙТИ';break;
+            case 'en': $howToFind = 'feedback';break;
+            case 'lt': $howToFind = 'KAIP MUS RASTI';break;
+        }?>
+
+        <?php switch(\Yii::$app->language){
+            case 'uk': $menu = 'МЕНЮ';break;
+            case 'ru': $menu = 'МЕНЮ';break;
+            case 'en': $menu = 'feedback';break;
+            case 'lt': $menu = 'meniu';break;
+        }?>
+
+        <?php switch(\Yii::$app->language){
+            case 'uk': $lastWork = 'НАШІ ОСТАННІ РОБОТИ';break;
+            case 'ru': $lastWork = 'НАШИ ПОСЛЕДНИЕ РАБОТЫ';break;
+            case 'en': $lastWork = 'OUR RECENT WORK';break;
+            case 'lt': $lastWork = 'MŪSŲ PASKUTINIS DARBAS';break;
+        }?>
+
+
         <div class="top_foo">
             <div class="wrap">
                 <div class="title_1">
@@ -123,18 +146,18 @@ use yii\helpers\Html;
                     <p></p>
                 </div>
                 <div class="find_2">
-                    <span>Как нас найти</span>
+                    <span><?= $howToFind ?></span>
                     <ul>
                     </ul>
                 </div>
                 <div class="menu_3">
-                    <span>Меню</span>
+                    <span><?= $menu ?></span>
 
                     <?= NavWidget::widget([]) ?>
 
                 </div>
                 <div class="l_works">
-                    <span>Наши последние работы</span>
+                    <span><?= $lastWork ?></span>
                     <ul>
                     </ul>
                 </div>

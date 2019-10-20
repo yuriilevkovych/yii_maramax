@@ -12,25 +12,25 @@ use app\components\CallbackWidget;
             <ul>
 
                 <li>
-                    <a href="/cat-production/pos_materials_lt"><div class="item">
+                    <a href="/post/pos-materials"><div class="item">
                             <img src="/img/2015/06/sec_1_1.jpg" alt="">
                             <div class="table_v"><div class="table_cell_v">P.O.S.- MEDŽIAGOS</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/micro_corrugated_cardboard_lt"><div class="item">
+                    <a href="/post/corrugated-cardboard"><div class="item">
                             <img src="/img/2015/06/каш.png" alt="">
                             <div class="table_v"><div class="table_cell_v">PALAIKO PAKETAI</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/metalic_lt"><div class="item">
+                    <a href="/post/metalic"><div class="item">
                             <img src="/img/2015/06/мет.png" alt="">
                             <div class="table_v"><div class="table_cell_v">METALO POS-MEDŽIAGOS</div></div>
                         </div></a></li>
 
                 <li>
-                    <a href="/cat-production/cardboard_lt"><div class="item">
+                    <a href="/post/cardboard"><div class="item">
                             <img src="/img/2015/06/упаковка-из-картона.png" alt="">
                             <div class="table_v"><div class="table_cell_v">KARTONAS PAKAVIMO</div></div>
                         </div></a></li>

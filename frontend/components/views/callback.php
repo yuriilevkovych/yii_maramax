@@ -39,7 +39,7 @@ switch(\Yii::$app->language){
     <p><?= $title ?></p>
     <div role="form" class="wpcf7" lang="ru-RU" dir="ltr">
         <div class="screen-reader-response"></div>
-        <form name="callback_form" action="/callback/index" method="post" class="wpcf7-form" novalidate="novalidate">
+        <form name="callback_form" action="/<?= Yii::$app->language ?>/callback/index" method="post" class="wpcf7-form" novalidate="novalidate">
             <div class="row">
                 <span class="wpcf7-form-control-wrap fio">
                     <input type="text" name="fio" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="<?= $name ?>" />

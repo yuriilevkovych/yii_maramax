@@ -7,17 +7,28 @@
 
 use yii\helpers\Html;
 
+switch(\Yii::$app->language) {
+    case 'ru':
+        $msg = 'Ошибка, нужно ввести номер телефона или почту обязательно!';
+        break;
+    case 'uk':
+        $msg = 'Помилка, потрібно ввести номер телефону або пошту обов\'язково!';
+        break;
+    case 'en':
+        $msg = 'Error, you need to enter a phone number or mail necessarily!';
+        break;
+    case 'lt':
+        $msg = 'Klaida, būtinai turite įvesti telefono numerį ar laišką!';
+        break;
+        break;
+}
 ?>
 <section>
 <div class="wrap">
-    <div class="site-error">
+    <div class="site-error" style="min-height: 500px">
 
-        <h1 style="color: red">Ошибка, нужно ввести номер телефона обязательно!</h1>
+        <h1 style="color: red"><?= $msg ?></h1>
 
     </div>
-
-    <?= \app\components\CallbackWidget::widget() ?>
 </div>
 </section>
-
-<!--////<h1>Спасибо за ваше обращение, мы Вам перезвоним в ближайшее время!</h1> <br/> <a href="/">Главная</a>-->

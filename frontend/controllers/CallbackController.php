@@ -41,8 +41,9 @@ class CallbackController extends Controller
             $message .= "Tel: {$_POST['tel']}" . PHP_EOL;
             $message .= "Сообщение: {$_POST['msg']}" . PHP_EOL;
 
-            mail('yurii.levkovich@gmail.com', 'Обратная связь', $message);
-            mail('a.martynenko@maramax.kiev.ua', 'Обратная связь', $message);
+            $headers[] = 'From: Обратная связь <office@maramax.kiev.ua>';
+            mail('yurii.levkovich@gmail.com', 'Обратная связь', $message, implode("\r\n", $headers));
+            mail('a.martynenko@maramax.kiev.ua', 'Обратная связь', $message, implode("\r\n", $headers));
 
             return $this->redirect('/callback/success');
         }
@@ -60,4 +61,3 @@ class CallbackController extends Controller
         return $this->render('success');
     }
 }
-//<h1>Спасибо за ваше обращение, мы Вам перезвоним в ближайшее время!</h1> <br/> <a href="/">Главная</a>
